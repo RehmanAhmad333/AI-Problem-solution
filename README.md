@@ -1,2 +1,4 @@
 # AI-Problem-solution
-Ai training model and slove algorithm
+AI training model and slove algorithm
+<b>
+AI thory and Problems
