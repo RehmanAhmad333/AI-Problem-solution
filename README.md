@@ -13,7 +13,7 @@ A clean, object-oriented Python implementation of a maze solver that uses **Dept
 - 🔎 **Depth-First Search** using a `StackFrontier`
 - 🧱 Simple text-based maze format (`#` walls, `A` start, `B` goal)
 - 🖥️ Pretty terminal output with the solution path marked by `*`
-- 🖼️ Image export (`AI-Problem-solution/maze.png`) with walls, start, goal, solution, and optionally explored cells
+- 🖼️ Image export (`maze.png`) with walls, start, goal, solution, and optionally explored cells
 - 🧩 Clean OOP design: `Node`, `StackFrontier`, `QueueFrontier`, `Maze`
 
 ---
